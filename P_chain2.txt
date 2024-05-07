@@ -2,3 +2,4 @@ this is for pipeline chain 2"Changing text"
 this is 2 one
 this is 3 one
 "this is today task" 
+"this is today task" 
